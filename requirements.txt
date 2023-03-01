@@ -1,0 +1,7 @@
+nltk
+numpy
+torch
+mlflow
+fastapi
+uvicorn
+psycopg2
